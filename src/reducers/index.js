@@ -1,7 +1,9 @@
 import { combineReducers } from 'redux';
 
 const rootReducer = combineReducers({
-    state: () => ({})
+    state: () => ({
+        name: "Pravin"
+    })
 });
 
 export default rootReducer;

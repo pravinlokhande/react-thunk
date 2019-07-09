@@ -1,30 +1,20 @@
 
 <h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/react-bolt"><img src="https://i.imgur.com/GpQk5wG.png" alt="React Bolt" width=128"></a>
+  <a href="https://github.com/pravinlokhande/react-thunk.git"><img src="https://i.imgur.com/GpQk5wG.png" alt="ReactThunk" width=128"></a>
 <br>
 <br>
-React Bolt
+React Thunk
 </h1>
 
 <p align="center">The best boilerplate for your React projects.</p>
 
-<p align="center">
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
-  </a>
-</p>
 
 <hr />
 
 ## Introduction
 
 This boilerplate contains all you need to start your next React.js project. Simple, robust, well-organized, all you need to do is clone, install and you're ready to start.
-
-I wrote a article for anyone who wants to learn how to build this boilerplate, if you want to learn just click [here](linksoon).
 
 ## Features
 
@@ -41,7 +31,7 @@ This boilerplate features all the latest tools and practices in the industry.
 
 ## Getting started
 
-1. Clone this repo using `https://github.com/leonardomso/react-bolt.git`
+1. Clone this repo using `https://github.com/pravinlokhande/react-thunk.git`
 2. Move to the appropriate directory: `cd react-bolt`.<br />
 3. Run `yarn` or `npm install` to install dependencies.<br />
 4. Run `npm start` to see the example app at `http://localhost:8080`.
@@ -57,13 +47,3 @@ This boilerplate features all the latest tools and practices in the industry.
 - `npm run test:cover` - coverage mode
 - `npm run cypress:open` - starts cypress
 
-## Next features:
-
-- [ ] **Hot Module Replacement**: Better HMR support;
-- [ ] **CSS/Sass support**: Enable CSS/Sass support;
-- [ ] **PWA**: Turn into a PWA boilerplate;
-- [ ] **SEO**: SEO-ready;
-
-## License
-
-MIT license, Copyright (c) 2018 Leonardo Maldonado.
