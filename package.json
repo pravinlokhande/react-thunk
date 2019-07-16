@@ -1,5 +1,5 @@
 {
-    "name": "react-bolt",
+    "name": "react-thunk",
     "version": "1.0.0",
     "description": "⚡ The most simple & robust boilerplate for your React projects.",
     "main": "src/index.js",
@@ -24,16 +24,16 @@
         "starter",
         "boilerplate"
     ],
-    "author": "Leonardo Maldonado <leonardomso11@gmail.com>",
+    "author": "Pravin Lokhande <pravinlokhande369@gmail.com>",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/leonardomso/react-bolt.git"
+        "url": "git+https://github.com/pravinlokhande/react-thunk.git"
     },
     "bugs": {
-        "url": "https://github.com/leonardomso/react-bolt/issues"
+        "url": "https://github.com/pravinlokhande/react-thunk/issues"
     },
-    "homepage": "https://github.com/leonardomso/react-bolt#readme",
+    "homepage": "https://github.com/pravinlokhande/react-thunk#readme",
     "devDependencies": {
         "@babel/cli": "^7.4.3",
         "@babel/core": "^7.4.3",
